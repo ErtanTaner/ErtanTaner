@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on [VeterinaryClinic](https://github.com/Ertan222/VeterinaryClinicProject)
 
-- 🌱 I’m currently learning **Web APIs(RESTful), JWT and other API Services, HTML,CSS and JS**
-
 - 💬 Ask me about **C#,ASP.NET Core MVC, EF Core and Git, Linux and distros, Bash**
 
 - 📫 How to reach me **ertantaner2000@gmail.com**
