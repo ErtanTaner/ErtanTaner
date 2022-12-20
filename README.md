@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Ertan</h1>
 <h3 align="center">I'm a Junior Developer from Turkey</h3>
 
-- 🔭 I’m currently working on [VeterinaryClinic](https://github.com/Ertan222/VeterinaryClinicProject)
+- 🔭 I’m currently working on [SmileyMeow](https://github.com/Ertan222?tab=repositories)
 
 - 💬 Ask me about **C#,ASP.NET Core MVC, EF Core and Git, Linux and distros, Bash**
 
