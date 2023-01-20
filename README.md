@@ -90,6 +90,6 @@
 <img src="./images/toolsandsystems/linux-tux.png" width="15%" alt="postgresql logo" align="right" height="auto">
 <p align="left">Hi Tux 👋, Tux is linux kernel's mascot (with xenia). Linux is my main, favorite os for development. I also use daily and having so much fun with it. I am a terminal person and using my computer with terminal more powerful and fun. But bad for video games 😔 </p>
 <br>
-<img src="./images/toolsandsystems/nvim-logo.png" width="15%" alt="neovim logo" align="left" height="auto">
+<img src="./images/toolsandsystems/nvim-logo.png" width="20%" alt="neovim logo" align="left" height="auto">
 <p align="right">Vim and Neovim is my favorite and main text editor for daily use and for future maybe coding editor. I am using VSCode for now. </p>
 <br>
