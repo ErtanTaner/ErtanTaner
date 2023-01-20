@@ -5,7 +5,7 @@
 </p>
 <p align="center">
 <a href="https://gifer.com/en/CKjl" target="_blank">
-<img src="./images/design/bonf-msg.png" alt="Green button with text rest at bonfire">
+<img src="./images/design/bonf-msg.png" width="40%" alt="Green button with text rest at bonfire">
 </a>
 </p>
 
@@ -14,8 +14,6 @@
 <a href="https://www.deviantart.com/tetsuok9999/art/lady-maria-580536255">
 <img src="./images/design/ladymaria.png" width="21%"  align="right">
 </a>
-
-
 <ul align="left">
 <br>
  <li> 👋 Hi, my name is Ertan. Junior developer who currently work with C\# language.</li>
