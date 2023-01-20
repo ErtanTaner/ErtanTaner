@@ -12,7 +12,7 @@
 ---
 
 <a href="https://www.deviantart.com/tetsuok9999/art/lady-maria-580536255">
-<img src="./images/design/ladymaria.png" width="21%"  align="right">
+<img src="./images/design/ladymaria.png" width="22%"  align="right">
 </a>
 <ul align="left">
 <br>
