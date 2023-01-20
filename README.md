@@ -1,218 +1,96 @@
-<style>
-    :root{
-        --ros-tap:#99585C;
-        --spart-crim:#9A1818;
-        --dark-charc:#34302F;
-        --smky-blck:#1A0B06;
-        --garnet:#7F3335;
-        --slvr-pnk:#C5A8AA;
-        --steel-pnk:#CC33CC;
-        --purpl-hrt:#6F3F99;
-        --gldn-yllw:#FFDD03;
-        --pl-crln:#9BCCD4;
-        --web-choco:#DA651C;
-        --vio-blue:#3E57B0;
-        --phli-orng:#FF7403;
-        --brnt-sien:#EB764B;
-        --amazon:#396557;
-        --qck-slvr:#404040;
-        --clmb-blue:#CAE8DD;
-        --iris:#5059D6;
-    }
-    /* Language styles */
-    .cshrp{
-        color: var(--purpl-hrt);
-    }
-    .js{
-        color: var(--gldn-yllw);
-    }
-    .sql{
-        color:var(--pl-crln);
-    }
-    .html{
-        color: var(--web-choco);
-    }
-    .css{
-        color: var(--vio-blue);
-    }
-    .git{
-        color:var(--brnt-sien)
-    }
-    .mongodb{
-        color:var(--amazon);
-    }
-    .bash-script{
-        color:var(--qck-slvr);
-    }
-    .psql{
-        color:var(--clmb-blue);
-    }
-    .linux{
-        color:var(--iris);
-    }
-    .i-am-in-danger{
-        color:#D61010;
-    }
-    .high-mid-img{
-        width:15%;
-        margin-left:25px;
-        display:inline;
-    }
-    .highest-mid-img{
-        width:30%;
-        margin-left:25px;
-        display:inline;
-    }
-    .low-mid-img{
-        width:10%;
-        margin-left:25px;
-        display:inline;
-    }
-    .highly-mid-img{
-        width:24%;
-        margin-left:25px;
-        display:inline;
-    }
-    /* ------------------------- */
-    .no-dec{
-        text-decoration:none;
-    }
-    .ab-me-p{
-        font-size:20px; 
-        font-weight:bold;
-        color: var(--ros-tap);
-    }
-    .a-btn-txt{
-        font-size:18px;
-        color: var(--spart-crim);
-    }
-    .wlcom-h{
-        color: var(--ros-tap);
-    }
-    .sect-hr{
-        height:0.5%; 
-        width:90%; 
-        margin:auto; 
-        border:1px solid #34302F; 
-        background-color:#7F3335;
-    }
-    .mini-hr{
-        height:0.1%; 
-        width:90%; 
-        margin:auto; 
-        border:1px solid #34302F; 
-        background-color: var(--purpl-hrt);
-        margin-top:25px;
-    }
-    .soft-know{
-        text-align:center;
-        color: var(--slvr-pnk);
-        margin-top:10px;
-        font-size:20px;
-    }
-    .mini-img{
-        width:5%;
-        display:inline-block;
-    }
-    .mid-img{
-        width:10%;
-    }
-    .fam-quot{
-        display:inline;
-    }
-    .cntc-h{
-        color: var(--ros-tap);
-    }
-    .cntc-sec a{
-        text-decoration:none;
-    }
-</style>
-
-<section align="center">
-<h1 class="wlcom-h">Welcome to my shrine</h1>
-<img src="./images/main/bonfiregif.gif" alt="A bonfire with a sword">
-<figure>
-<figcaption>
-<a href="https://gifer.com/en/CKjl" target="_blank" class="no-dec">
-<img src="./images/main/xboxAbutton.png" class="mini-img" alt="button named A with green background">
+<h1>
+<img src="./images/design/welcomeshrine.png" alt="welcome message for profile">
+</h1>
+<p align="center">
+<img src="./images/design/bonfire.gif" alt="A bonfire with a sword">
+</p>
+<p align="center">
+<a href="https://gifer.com/en/CKjl" target="_blank">
+<img src="./images/design/bonf-msg.png" alt="Green button with text rest at bonfire">
 </a>
-<span class="a-btn-txt">Rest at bonfire(Source)</span>
-</figcaption>
-</figure>
-<p class="ab-me-p">Hi, my name is Ertan. I am a backend developer and open source lover.</p>
-</section>
-<hr class="sect-hr">
-<section align="center" class="cntc-sec">
-<h2 class="cntc-h">Contact with me</h2>
+</p>
+
+---
+
+<a href="https://www.deviantart.com/tetsuok9999/art/lady-maria-580536255">
+<img src="./images/design/ladymaria.png" width="21%"  align="right">
+</a>
+
+
+<ul align="left">
+<br>
+ <li> 👋 Hi, my name is Ertan. Junior developer who currently work with C\# language.</li>
+  <br>
+  <li>🌌 I love open source and trying to contribute projects as much as ı can. </li>
+<br>
+ <li> 🌐 Currently ı am working on backend for web applications </li>
+ <br>
+ <li>🐧I love linux and  video games but they don't like each other</li>
+ <br>
+ <li>📄 Last project ı finished <a href="https://github.com/Ertan222/SmileyMeow">SmileyMeow</a></li>
+ <br>
+ <li>⌨️ Working on <a href="https://github.com/Ertan222/Ertan222">Personal Repository</a></li>
+ <br>
+ <li>
+    💡 Learning/Improving <a href="https://learn.microsoft.com/en-us/aspnet/core/tutorials/razor-pages/razor-pages-start?view=aspnetcore-7.0&tabs=visual-studio">Razor Pages</a>
+ </li>
+  <br>
+<section align="right">
 <a href="https://www.linkedin.com/in/ertan-taner/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin badge">
 </a>
 <a href="mailto:ertan2000@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="linkedin badge">
 </a>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
+<a href="https://twitter.com/Ertant11">
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="linkedin badge">
+</a>
 
-<hr class="mini-hr">
-<h2 class="cntc-h">Github Stats</h2>
-<img src="https://img.shields.io/github/followers/Ertan222.svg?style=social&label=Follow&maxAge=2592000" style="display:block; margin:auto auto 10px;">
-<img src="https://github-readme-stats.vercel.app/api?username=Ertan222&theme=blue-green">
 </section>
-<hr class="sect-hr">
-<section>
-<p class="soft-know">Languages, Technologies and Tools</p>
-<table class="lng-tls-tbl">
-<thead>
-<tr>
-<th>Name</th>
-<th>Alias</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><a href="https://learn.microsoft.com/en-us/dotnet/csharp" target="_blank" class="no-dec cshrp">C# <img src="./images/language/logos/csharp.png" class="high-mid-img"></td>
-<td>CHashtag</td>
-</tr>
-<tr>
-<td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" class="no-dec js" target="_blank">Javascript <img src="./images/language/logos/js.png" class="low-mid-img"></td>
-<td>NaN is a number??</td>
-</tr>
-<tr>
-<td><a href="https://developer.mozilla.org/en-US/docs/Web/HTML" class="no-dec html" target="_blank">HTML <img src="./images/language/logos/html.png" class="high-mid-img"></td>
-<td><img src="./images/language/sans.gif" class="mini-img" alt="a skeleton image"> of internet</td>
-</tr>
-<tr>
-<td>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" class="no-dec css" target="_blank">CSS <img src="./images/language/logos/css.png" class="highly-mid-img"></td>
-<td>
-<img src="./images/language/bobross.png" class="mid-img" alt="bob ross image">
-<blockquote class="fam-quot" cite="https://blog.calm.com/blog/the-10-greatest-bob-ross-quotes-of-all-time">“I really believe that if you practice enough, you could paint The Mona Lisa with a two-inch brush.”</blockquote>
-</td>
-</tr>
-<tr>
-<td><a href="https://www.w3schools.com/sql/" class="no-dec sql" target="_blank">SQL <img src="./images/language/logos/sql.png" class="highest-mid-img"></td>
-<td>(S)elect (Q)uery (L)anguage</td>
-</tr>
-<tr>
-<td><a href="https://git-scm.com/" class="no-dec git" target="_blank">Git <img src="./images/language/logos/git.png" class="highly-mid-img"></td>
-<td><blockquote>The stupid content tracker</blockquote>Linus Torvalds</td>
-</tr>
-<tr>
-<td><a href="https://www.gnu.org/software/bash/" class="no-dec bash-script" target="_blank">BashScript<img src="./images/language/logos/bash.png" class="highest-mid-img"></td>
-<td>Favorite scripts are: <span class="i-am-in-danger">rm -rf /*</span> and <span class="i-am-in-danger">:(){ :|:& };:</span> (Don't try at home)</td>
-</tr>
-<tr>
-<td><a href="https://www.mongodb.com/" class="no-dec mongodb" target="_blank">MongoDb<img src="./images/language/logos/mongodb.png" class="highest-mid-img"></td>
-<td>Yes mom, I am eating my vegetables</td>
-</tr>
-<tr>
-<td><a href="https://www.postgresql.org/" class="no-dec psql" target="_blank">PostgreSQL<img src="./images/language/logos/psql.png" class="high-mid-img"></td>
-<td>Who have a blue skin, big body and strong teeths? Thats's right, cookie monster</td>
-</tr>
-<tr>
-<td><a href="https://www.kernel.org/" class="no-dec linux" target="_blank">Linux<img src="./images/language/logos/linux-tux.png" class="high-mid-img"></td>
-<td><blockquote>It's actually GNU/Linux</blockquote>Richard Stallman</td>
-</tr>
-</tbody>
-</table>
-</section>
+
+
+</ul>
+
+
+---
+
+<h2 align="center">Development</h2>
+<h3 align="center">Language</h3>
+<img src="https://imgs.search.brave.com/SUcWvnX0yJmiP0KTodYOhUkaKhJuM93Qfq3kQbdG_SM/rs:fit:564:444:1/g:ce/aHR0cHM6Ly93d3cu/cHVyZXNvdXJjZWNv/ZGUuY29tL3dwLWNv/bnRlbnQvdXBsb2Fk/cy8yMDIwLzEwL2Nz/aGFycC1sb2dvLnBu/Zw" width="8%" alt="csharp logo" align="left" height="auto">
+<p align="right">C# is my first programming language for development. Have a important place in my life beacuse ı learned so many basic from it and my first backend development language.</p>
+<br>
+<img src="./images/language/logos/js.png" width="6%" alt="javascript logo" align="right" height="auto">
+<p align="left">JavaScript is also important for my life beacuse gave me the confidence of using a programming languages. I usually using in backend but ı tried in frontend and its enjoyable.</p>
+<br>
+<br>
+<img src="./images/language/logos/html.png" width="5%" alt="html logo" align="left" height="auto">
+<p align="right">What can ı say about HTML? Basic structre of the internet, most important part of the websites. My first language for web development when ı was 15-16. Old but still helping us to build new applications.</p>
+<br>
+<img src="./images/language/logos/css.png" width="15%" alt="css logo" align="right" height="auto">
+<p align="left">CSS, hmm... Important for web development to show better applications, we want to see colors, spacing, layouts, etc and CSS Bob Ross for our problems. I am enjoying when decide which color should ı choose</p>
+<br>
+<br>
+<img src="./images/language/logos/bash.png" width="15%" alt="bash logo" align="left" height="auto">
+<p align="right">Bash scripts is very important for me. I love automation and less work like every developer and bash scripts is part of mine beacuse of that. With few lines, you can make awesome systems.</p>
+<br>
+<h3 align="center">Databases</h3>
+<img src="./images/dbs/mongodb.png" width="15%" alt="mongodb logo" align="left" height="auto">
+<p align="right">MongoDB is my first and favorite nosql db. I think it flexable and a good db. When ı learned about RDB first time, ı thought nosql is not that good but mongodb changed my mind. </p>
+<br>
+<img src="./images/dbs/psql.png" width="15%" alt="postgresql logo" align="right" height="auto">
+<p align="left">Postgres is my favorite RDB beacuse of being free, open-source, strong, secure, have a good drivers for developers and functions/procedures are also nice. I am still learning, in the future going to use directly sql from my applications cause of security, faster and flexable.</p>
+<br>
+<img src="./images/dbs/sqlite.png" width="15%" alt="sqlite logo" align="left" height="auto">
+<p align="right">SQLite is always a good choice for side projects. You don't need to setup to use, just make a short connections string and thats it. Easy to use and ı think everyone should try it.</p>
+<br>
+<br>
+<h3 align="center">Tools and Systems</h3>
+<img src="./images/toolsandsystems/git.png" width="15%" alt="git logo" align="left" height="auto">
+<p align="right">Git is a powerful tool to have in hand. I can track of my app's states, revert it, making messages with commits and can try new things without broking my app.</p>
+<br>
+<img src="./images/toolsandsystems/linux-tux.png" width="15%" alt="postgresql logo" align="right" height="auto">
+<p align="left">Hi Tux 👋, Tux is linux kernel's mascot (with xenia). Linux is my main, favorite os for development. I also use daily and having so much fun with it. I am a terminal person and using my computer with terminal more powerful and fun. But bad for video games 😔 </p>
+<br>
+<img src="./images/toolsandsystems/nvim-logo.png" width="15%" alt="neovim logo" align="left" height="auto">
+<p align="right">Vim and Neovim is my favorite and main text editor for daily use and for future maybe coding editor. I am using VSCode for now. </p>
+<br>
