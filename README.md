@@ -1,6 +1,5 @@
-<h1>
+
 <img src="./images/design/welcomeshrine.png" alt="welcome message for profile">
-</h1>
 <p align="center">
 <img src="./images/design/bonfire.gif" alt="A bonfire with a sword">
 </p>
