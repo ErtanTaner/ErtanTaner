@@ -74,7 +74,7 @@
 <img src="./images/dbs/mongodb.png" width="15%" alt="mongodb logo" align="left" height="auto">
 <p align="right">MongoDB is my first and favorite nosql db. I think it flexable and a good db. When ı learned about RDB first time, ı thought nosql is not that good but mongodb changed my mind. </p>
 <br>
-<img src="./images/dbs/psql.png" width="15%" alt="postgresql logo" align="right" height="auto">
+<img src="./images/dbs/psql.png" width="10%" alt="postgresql logo" align="right" height="auto">
 <p align="left">Postgres is my favorite RDB beacuse of being free, open-source, strong, secure, have a good drivers for developers and functions/procedures are also nice. I am still learning, in the future going to use directly sql from my applications cause of security, faster and flexable.</p>
 <br>
 <img src="./images/dbs/sqlite.png" width="15%" alt="sqlite logo" align="left" height="auto">
