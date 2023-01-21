@@ -91,3 +91,8 @@
 <img src="./images/toolsandsystems/nvim-logo.png" width="20%" alt="neovim logo" align="left" height="auto">
 <p align="right">Vim and Neovim is my favorite and main text editor for daily use and for future maybe coding editor. I am using VSCode for now. </p>
 <br>
+<h1 align="center">Stats</h1>
+<img src="https://github-readme-stats.vercel.app/api?username=ertan222&theme=blue-green" align="left">
+
+<img src="https://streak-stats.demolab.com/?user=Ertan222" align="middle">
+
