@@ -82,10 +82,10 @@
 <br>
 <br>
 <h3 align="center">Tools and Systems</h3>
-<img src="./images/toolsandsystems/git.png" width="15%" alt="git logo" align="left" height="auto">
+<img src="./images/toolsandsystems/git.png" width="10%" alt="git logo" align="left" height="auto">
 <p align="right">Git is a powerful tool to have in hand. I can track of my app's states, revert it, making messages with commits and can try new things without broking my app.</p>
 <br>
-<img src="./images/toolsandsystems/linux-tux.png" width="15%" alt="postgresql logo" align="right" height="auto">
+<img src="./images/toolsandsystems/linux-tux.png" width="10%" alt="postgresql logo" align="right" height="auto">
 <p align="left">Hi Tux 👋, Tux is linux kernel's mascot (with xenia). Linux is my main, favorite os for development. I also use daily and having so much fun with it. I am a terminal person and using my computer with terminal more powerful and fun. But bad for video games 😔 </p>
 <br>
 <img src="./images/toolsandsystems/nvim-logo.png" width="20%" alt="neovim logo" align="left" height="auto">
