@@ -21,7 +21,7 @@ jobs:
           plugin_isocalendar: yes
           plugin_languages: yes
           plugin_stars: yes
-          plugin_languages_ignored: html, css, scss
+          plugin_languages_ignored: html, css, scss, php
           config_order: base.header, isocalendar, languages, stars
       
       - name: Current year commits calendar
