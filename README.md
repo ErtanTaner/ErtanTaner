@@ -92,8 +92,8 @@
 <p align="right">Vim and Neovim is my favorite and main text editor for daily use and for future maybe coding editor. I am using VSCode for now. </p>
 <br>
 <h1 align="center">Stats</h1>
-<img src="./github-metrics.svg">
-<img src="./metrics.base.svg">
-<img src="./metrics.commits.clander.svg">
-<img src="./metrics.last.activity.svg">
-<img src="./metrics.plugin.achievements.compact.svg">
+<img src="./github-metrics.svg" width="40%" align="left" height="auto">
+<img src="./metrics.base.svg" width="40%" align="right" height="auto">
+<img src="./metrics.last.activity.svg" width="50%" align="left" height="auto">
+<img src="./metrics.plugin.achievements.compact.svg" width="40%" align="right" height="auto">
+<img src="./metrics.commits.clander.svg" width="40%" align="left" height="auto">
