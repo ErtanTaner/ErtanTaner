@@ -91,3 +91,10 @@
 <img src="./images/toolsandsystems/nvim-logo.png" width="20%" alt="neovim logo" align="left" height="auto">
 <p align="right">Vim and Neovim is my favorite and main text editor for daily use and for future maybe coding editor. I am using VSCode for now. </p>
 <br>
+<h1 align="center">Stats</h1>
+<img src="./images/metric-stats/github-metrics.svg">
+<img src="./images/metric-stats/metrics.base.svg">
+<img src="./images/metric-stats/metrics.commits.clander.svg">
+<img src="./images/metric-stats/metrics.last.activity.svg">
+<img src="./images/metric-stats/metrics.plugin.achievements.compact.svg">
+<img src="./images/metric-stats/github-metrics.svg">
