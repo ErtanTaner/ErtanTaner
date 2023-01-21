@@ -97,4 +97,3 @@
 <img src="./images/metric-stats/metrics.commits.clander.svg" align="left">
 <img src="./images/metric-stats/metrics.last.activity.svg" align="right">
 <img src="./images/metric-stats/metrics.plugin.achievements.compact.svg" align="left">
-<img src="./images/metric-stats/github-metrics.svg" align="right">
