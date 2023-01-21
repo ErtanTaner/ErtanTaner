@@ -1,5 +1,6 @@
-
-<img src="./images/design/welcomeshrine.png" alt="welcome message for profile">
+<div align="center">
+<img src="./images/design/welcomeshrine.png" alt="welcome message for profile" width="60%">
+</div>
 <p align="center">
 <img src="./images/design/bonfire.gif" alt="A bonfire with a sword">
 </p>
