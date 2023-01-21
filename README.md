@@ -96,3 +96,4 @@
 
 <img src="https://streak-stats.demolab.com/?user=Ertan222" align="middle">
 
+![Metrics](/github-metrics.svg)
