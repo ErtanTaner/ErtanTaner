@@ -1,12 +1,12 @@
 <div align="center">
-<img src="./images/design/welcomeshrine.png" alt="welcome message for profile" width="60%">
+<img src="./images/design/welcomeshrine.png" alt="welcome message for profile" width="500px">
 </div>
 <p align="center">
 <img src="./images/design/bonfire.gif" alt="A bonfire with a sword">
 </p>
 <p align="center">
 <a href="https://gifer.com/en/CKjl" target="_blank">
-<img src="./images/design/bonf-msg.png" width="40%" alt="Green button with text rest at bonfire">
+<img src="./images/design/bonf-msg.png" width="30%" alt="Green button with text rest at bonfire">
 </a>
 </p>
 
