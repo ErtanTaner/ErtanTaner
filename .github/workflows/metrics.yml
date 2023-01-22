@@ -11,7 +11,9 @@ jobs:
       contents: write
       pull-requests: write
     steps:
-
+        
+      - name: Checkout for action
+        uses: actions/checkout@v3
       - name : Basic
         uses: lowlighter/metrics@latest
         with:
