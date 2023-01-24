@@ -27,7 +27,7 @@
  <br>
  <li>📄 Last project ı finished <a href="https://github.com/Ertan222/SmileyMeow">SmileyMeow</a></li>
  <br>
- <li>⌨️ #100daysofcode Day 2: <a href="https://github.com/EddieHubCommunity/LinkFree/pull/3775">LinkFree Profile</a></li>
+ <li>⌨️ #100daysofcode Day 3: <a href="https://github.com/EddieHubCommunity/LinkFree/pull/3775">Started to working on new project, Hubtofy</a></li>
  <br>
  <li>
     💡 Learning/Improving <a href="https://learn.microsoft.com/en-us/aspnet/core/tutorials/razor-pages/razor-pages-start?view=aspnetcore-7.0&tabs=visual-studio">Razor Pages</a>
