@@ -27,7 +27,7 @@
  <br>
  <li>📄 Last project ı finished <a href="https://github.com/Ertan222/SmileyMeow">SmileyMeow</a></li>
  <br>
- <li>⌨️ #100daysofcode Day 4: <a href="https://github.com/Ertan222/Hubtofy">Tried to add SPA crud for genre, not worked... same old multipage CRUD.</a></li>
+ <li>Currently working on <a href="https://github.com/Ertan222/Hubtofy">Hubtofy</a></li>
  <br>
  <li>
     💡 Learning/Improving <a href="https://learn.microsoft.com/en-us/aspnet/core/tutorials/razor-pages/razor-pages-start?view=aspnetcore-7.0&tabs=visual-studio">Razor Pages</a>
