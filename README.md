@@ -1,3 +1,5 @@
+[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://stand-with-ukraine.pp.ua)
+
 <div align="center">
 <img src="./images/design/welcomeshrine.png" alt="welcome message for profile" width="500px">
 </div>
