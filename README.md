@@ -19,7 +19,7 @@
 </a>
 <ul align="left">
 <br>
- <li> 👋 Hi, my name is Ertan. Junior developer who currently work with C\# language.</li>
+ <li> 👋 Hi, my name is Burak. Junior developer who currently work with C\# language.</li>
   <br>
   <li>🌌 I love open source and trying to contribute projects as much as ı can. </li>
 <br>
