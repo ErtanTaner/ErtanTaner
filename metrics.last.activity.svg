@@ -23,12 +23,12 @@
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#3 docs: add short readme</span>
+                                        <span class="issue">#4 build: add docker build</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">BurakTaner/philosophers-books</span></div>
-                                    <div>1 file changed <span class="code">++2 --0</span></div>
+                                    <div>5 files changed <span class="code">++179 --7</span></div>
                                 </div>
                             </section>
                         </div>
@@ -40,12 +40,12 @@
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#3 docs: add short readme</span>
+                                        <span class="issue">#4 build: add docker build</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">BurakTaner/philosophers-books</span></div>
-                                    <div>1 file changed <span class="code">++2 --0</span></div>
+                                    <div>5 files changed <span class="code">++179 --7</span></div>
                                 </div>
                             </section>
                         </div>
@@ -58,7 +58,7 @@
                                     <div class="content">
                                         Created new
                       branch
-                                        <span class="code">BurakTaner-patch-1</span>
+                                        <span class="code">build/add-docker-build</span>
                                         in
                                         <span class="repo">BurakTaner/philosophers-books</span>
                                     </div>
@@ -73,12 +73,12 @@
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#2 docs: add LICENSE</span>
+                                        <span class="issue">#3 docs: add short readme</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">BurakTaner/philosophers-books</span></div>
-                                    <div>1 file changed <span class="code">++21 --0</span></div>
+                                    <div>1 file changed <span class="code">++2 --0</span></div>
                                 </div>
                             </section>
                         </div>
@@ -90,12 +90,12 @@
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#2 docs: add LICENSE</span>
+                                        <span class="issue">#3 docs: add short readme</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">BurakTaner/philosophers-books</span></div>
-                                    <div>1 file changed <span class="code">++21 --0</span></div>
+                                    <div>1 file changed <span class="code">++2 --0</span></div>
                                 </div>
                             </section>
                         </div>
