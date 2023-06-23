@@ -23,12 +23,12 @@
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#4 build: add docker build</span>
+                                        <span class="issue">#5 feat: improve navbar</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div> in <span class="repo">BurakTaner/philosophers-books</span></div>
-                                    <div>5 files changed <span class="code">++179 --7</span></div>
+                                    <div> in <span class="repo">BurakTaner/portfolio</span></div>
+                                    <div>6 files changed <span class="code">++51 --1</span></div>
                                 </div>
                             </section>
                         </div>
@@ -40,12 +40,12 @@
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#4 build: add docker build</span>
+                                        <span class="issue">#5 feat: improve navbar</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div> in <span class="repo">BurakTaner/philosophers-books</span></div>
-                                    <div>5 files changed <span class="code">++179 --7</span></div>
+                                    <div> in <span class="repo">BurakTaner/portfolio</span></div>
+                                    <div>6 files changed <span class="code">++51 --1</span></div>
                                 </div>
                             </section>
                         </div>
@@ -58,9 +58,9 @@
                                     <div class="content">
                                         Created new
                       branch
-                                        <span class="code">build/add-docker-build</span>
+                                        <span class="code">feat/improve-navbar</span>
                                         in
-                                        <span class="repo">BurakTaner/philosophers-books</span>
+                                        <span class="repo">BurakTaner/portfolio</span>
                                     </div>
                                 </div>
                             </section>
@@ -73,12 +73,12 @@
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#3 docs: add short readme</span>
+                                        <span class="issue">#4 feat: add socials</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div> in <span class="repo">BurakTaner/philosophers-books</span></div>
-                                    <div>1 file changed <span class="code">++2 --0</span></div>
+                                    <div> in <span class="repo">BurakTaner/portfolio</span></div>
+                                    <div>4 files changed <span class="code">++107 --2</span></div>
                                 </div>
                             </section>
                         </div>
@@ -90,12 +90,12 @@
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#3 docs: add short readme</span>
+                                        <span class="issue">#4 feat: add socials</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div> in <span class="repo">BurakTaner/philosophers-books</span></div>
-                                    <div>1 file changed <span class="code">++2 --0</span></div>
+                                    <div> in <span class="repo">BurakTaner/portfolio</span></div>
+                                    <div>4 files changed <span class="code">++107 --2</span></div>
                                 </div>
                             </section>
                         </div>
