@@ -23,12 +23,12 @@
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#4 build: auto install peers</span>
+                                        <span class="issue">#8 feat: add redis cache</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div> in <span class="repo">BurakTaner/first-time-todo-frontend</span></div>
-                                    <div>1 file changed <span class="code">++1 --0</span></div>
+                                    <div> in <span class="repo">BurakTaner/first-time-todo-backend</span></div>
+                                    <div>6 files changed <span class="code">++104 --11</span></div>
                                 </div>
                             </section>
                         </div>
@@ -40,12 +40,12 @@
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#4 build: auto install peers</span>
+                                        <span class="issue">#8 feat: add redis cache</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div> in <span class="repo">BurakTaner/first-time-todo-frontend</span></div>
-                                    <div>1 file changed <span class="code">++1 --0</span></div>
+                                    <div> in <span class="repo">BurakTaner/first-time-todo-backend</span></div>
+                                    <div>6 files changed <span class="code">++104 --11</span></div>
                                 </div>
                             </section>
                         </div>
@@ -58,9 +58,9 @@
                                     <div class="content">
                                         Created new
                       branch
-                                        <span class="code">build/add-auto-install-peers</span>
+                                        <span class="code">feat/add-redis-cache</span>
                                         in
-                                        <span class="repo">BurakTaner/first-time-todo-frontend</span>
+                                        <span class="repo">BurakTaner/first-time-todo-backend</span>
                                     </div>
                                 </div>
                             </section>
@@ -73,12 +73,12 @@
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#3 feat: add todo component</span>
+                                        <span class="issue">#7 feat: add serilog {bonus: seq}</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div> in <span class="repo">BurakTaner/first-time-todo-frontend</span></div>
-                                    <div>7 files changed <span class="code">++102 --18</span></div>
+                                    <div> in <span class="repo">BurakTaner/first-time-todo-backend</span></div>
+                                    <div>4 files changed <span class="code">++60 --6</span></div>
                                 </div>
                             </section>
                         </div>
@@ -90,12 +90,12 @@
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#3 feat: add todo component</span>
+                                        <span class="issue">#7 feat: add serilog {bonus: seq}</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div> in <span class="repo">BurakTaner/first-time-todo-frontend</span></div>
-                                    <div>7 files changed <span class="code">++102 --18</span></div>
+                                    <div> in <span class="repo">BurakTaner/first-time-todo-backend</span></div>
+                                    <div>4 files changed <span class="code">++60 --6</span></div>
                                 </div>
                             </section>
                         </div>
