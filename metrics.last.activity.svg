@@ -23,12 +23,12 @@
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#8 feat: add redis cache</span>
+                                        <span class="issue">#9 feat: add jwt auth</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">BurakTaner/first-time-todo-backend</span></div>
-                                    <div>6 files changed <span class="code">++104 --11</span></div>
+                                    <div>9 files changed <span class="code">++115 --9</span></div>
                                 </div>
                             </section>
                         </div>
@@ -40,12 +40,12 @@
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#8 feat: add redis cache</span>
+                                        <span class="issue">#9 feat: add jwt auth</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">BurakTaner/first-time-todo-backend</span></div>
-                                    <div>6 files changed <span class="code">++104 --11</span></div>
+                                    <div>9 files changed <span class="code">++115 --9</span></div>
                                 </div>
                             </section>
                         </div>
@@ -58,7 +58,7 @@
                                     <div class="content">
                                         Created new
                       branch
-                                        <span class="code">feat/add-redis-cache</span>
+                                        <span class="code">feat/add-jwt-security</span>
                                         in
                                         <span class="repo">BurakTaner/first-time-todo-backend</span>
                                     </div>
@@ -73,12 +73,12 @@
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#7 feat: add serilog {bonus: seq}</span>
+                                        <span class="issue">#8 feat: add redis cache</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">BurakTaner/first-time-todo-backend</span></div>
-                                    <div>4 files changed <span class="code">++60 --6</span></div>
+                                    <div>6 files changed <span class="code">++104 --11</span></div>
                                 </div>
                             </section>
                         </div>
@@ -90,12 +90,12 @@
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#7 feat: add serilog {bonus: seq}</span>
+                                        <span class="issue">#8 feat: add redis cache</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">BurakTaner/first-time-todo-backend</span></div>
-                                    <div>4 files changed <span class="code">++60 --6</span></div>
+                                    <div>6 files changed <span class="code">++104 --11</span></div>
                                 </div>
                             </section>
                         </div>
