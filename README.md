@@ -29,7 +29,7 @@
  <br>
  <li>📄 Last project ı finished <a href="https://github.com/Ertan222/SmileyMeow">SmileyMeow</a></li>
  <br>
- <li>Currently working on <a href="https://github.com/Uzay-Sakinleri/afet-hayvan">Afet Hayvan</a></li>
+ <li>Currently working on <a href="https://github.com/BurakTaner/first-time-todo-frontend">todo-frontend</a></li>
  <br>
  <li>
     💡 Learning/Improving <a href="https://astro.build/">Astro</a>
