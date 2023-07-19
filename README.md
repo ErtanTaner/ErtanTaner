@@ -35,9 +35,6 @@
     💡 Learning/Improving <a href="https://svelte.dev">Svelte</a>
  </li>
  <br>
- <li>
-    💯 #100DaysOfCode <a href="https://twitter.com/MrPandaCoder">Started 100DaysOfCode, let me see my journey</a>
- </li>
 <section align="right">
 <a href="https://www.linkedin.com/in/ertan-taner/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin badge">
