@@ -27,12 +27,12 @@
  <br>
  <li>🐧I love linux and  video games but they don't like each other</li>
  <br>
- <li>📄 Last project ı finished <a href="https://github.com/Ertan222/SmileyMeow">SmileyMeow</a></li>
+ <li>📄 Last project ı finished <a href="https://github.com/BurakTaner/dictionareact">Dictionareact</a></li>
  <br>
- <li>Currently working on <a href="https://github.com/BurakTaner/first-time-todo-frontend">todo-frontend</a></li>
+ <li>Currently working on <a href="https://github.com/Uzay-Sakinleri/cane">Cane</a></li>
  <br>
  <li>
-    💡 Learning/Improving <a href="https://svelte.dev">Svelte</a>
+    💡 Learning/Improving <a href="https://www.upwork.com">Freelancing</a>
  </li>
  <br>
 <section align="right">
